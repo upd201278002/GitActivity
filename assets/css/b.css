@@ -1,0 +1,18 @@
+body {
+	background-color: fuchsia;
+	color: yellow;
+	font-family: "Comic Sans MS", sans-serif;
+}
+
+a {
+	text-decoration: none;
+}
+
+a, h3 {
+	color: orange;
+}
+
+a:hover {
+	color: yellow;
+	text-decoration: underline;
+}
