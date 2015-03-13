@@ -1,0 +1,18 @@
+body {
+	background-color: #111;
+	color: #fafafa;
+	font-family: Helvetica, sans-serif;
+}
+
+a {
+	text-decoration: none;
+}
+
+a, h3 {
+	color: #ff0000;
+}
+
+a:hover {
+	color: #fafafa;
+	text-decoration: underline;
+}
